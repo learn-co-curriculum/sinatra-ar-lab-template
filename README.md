@@ -43,3 +43,5 @@ sinatra-ar-lab-template/
 This template is for Sinatra-based labs with an MVC structure that use ActiveRecord.
 
 ## Resources
+
+<a href='https://learn.co/lessons/sinatra-ar-lab-template' data-visibility='hidden'>View this lesson on Learn.co</a>
